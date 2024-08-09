@@ -1,5 +1,5 @@
 # Aiden Ly
-Hello! I'm Aiden, an aspiring beginner programmer. I'll be adding more projects as my coding skills improve here.
+Hello! I'm Aiden, a programmer. I'll be adding more projects as my coding skills improve here.
 
 **Interests:** Martial Arts, Singing, Guitar, Reading, Video-Editing, Music, Calisthenics
 
